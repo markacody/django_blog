@@ -1,0 +1,36 @@
+myfont {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
+  color: #333;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.2em;
+  color: #2F44F;
+}
+
+.centerposts {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.postdate {
+  text-align: center;
+}
+
+.posttitle {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 3em;
+  text-align: center;
+}
+
+.postcontent {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
+}
+
+.btn-comment {
+  position: absolute;
+  right: 0px;
+}
